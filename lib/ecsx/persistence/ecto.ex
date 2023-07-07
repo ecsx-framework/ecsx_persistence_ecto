@@ -53,7 +53,7 @@ defmodule ECSx.Persistence.Ecto do
 
   defp wait_for_repo_to_start do
     if repo() not in Ecto.Repo.all_running() do
-      Logger.info("Repo not started, waiting to retrieve ecsx components")
+      Logger.info("Repo not started, waiting to retrieve ECSx components")
       :timer.sleep(500)
       wait_for_repo_to_start()
     end
