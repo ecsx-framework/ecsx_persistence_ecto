@@ -21,7 +21,7 @@ To configure ECSx in your app with Ecto as the persistence adapter, update `:ecs
 ```elixir
     config :ecsx,
       ...
-      persistence_adapter: ECSX.Persistence.Ecto
+      persistence_adapter: ECSx.Persistence.Ecto
 ```
 
 and specify your repo:
