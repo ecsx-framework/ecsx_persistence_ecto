@@ -13,7 +13,7 @@ EcsxPersistenceEcto can be installed by adding `ecsx_persistence_ecto` to your l
 ```elixir
 def deps do
   [
-    {:ecsx_persistence_ecto, "~> 0.1.0"}
+    {:ecsx_persistence_ecto, "~> 0.1"}
   ]
 end
 ```
