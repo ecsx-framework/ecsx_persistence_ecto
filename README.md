@@ -1,5 +1,9 @@
 # EcsxPersistenceEcto
 
+[![Hex Version](https://img.shields.io/hexpm/v/ecsx_persistence_ecto.svg)](https://hex.pm/packages/ecsx_persistence_ecto)
+[![License](https://img.shields.io/hexpm/l/ecsx_persistence_ecto.svg)](https://github.com/ecsx-framework/ecsx_persistence_ecto/blob/master/LICENSE)
+[![Documentation](https://img.shields.io/badge/documentation-gray)](https://hexdocs.pm/ecsx_persistence_ecto)
+
 Ecto Persistence Adapter for ECSx
 
 ## Installation
